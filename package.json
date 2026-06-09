@@ -2,11 +2,12 @@
   "name": "hit-tracker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "start": "node server.js",
     "preview": "vite preview",
     "test": "tsx tests/testUpdateResume.ts"
   },
@@ -19,6 +20,7 @@
     "@mui/icons-material": "^9.0.1",
     "@mui/material": "^9.0.1",
     "@mui/x-data-grid": "^9.4.0",
+    "express": "^5.2.1",
     "nodemailer": "^8.0.10",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",

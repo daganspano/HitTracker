@@ -1,4 +1,5 @@
 {
   "appService.defaultWebAppToDeploy": "/subscriptions/96de38ad-84a3-40fe-9931-785c8922f2a2/resourceGroups/Projects/providers/Microsoft.Web/sites/Hit-Tracker",
-  "appService.deploySubpath": "."
+  "appService.deploySubpath": ".",
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"]
 }
