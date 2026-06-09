@@ -1,0 +1,5215 @@
+[
+  {
+    "week": "7/8/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Onboarding and Orientation",
+          "time": 7.25
+        },
+        {
+          "key": 2,
+          "task": "HR paperwork",
+          "time": 0
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Laptop setup",
+          "time": 2.5
+        },
+        {
+          "key": 2,
+          "task": "Meeting",
+          "time": 1
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Check emails",
+          "time": 0.25
+        },
+        {
+          "key": 2,
+          "task": "Laptop Setup",
+          "time": 2
+        },
+        {
+          "key": 3,
+          "task": "Install Outlook",
+          "time": 0
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Onboarding and Orientation",
+          "time": 2.25
+        },
+        {
+          "key": 2,
+          "task": "NINJIA",
+          "time": 0
+        },
+        {
+          "key": 3,
+          "task": "Wilson University",
+          "time": 0
+        },
+        {
+          "key": 4,
+          "task": "Learn about process for creating a staging environment",
+          "time": 1.75
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Check emails",
+          "time": 0.25
+        },
+        {
+          "key": 2,
+          "task": "Learn about the coding behind our projects",
+          "time": 1.5
+        },
+        {
+          "key": 3,
+          "task": "Wilson Railway Tailwind Switch feedback breakdown",
+          "time": 1.75
+        },
+        {
+          "key": 4,
+          "task": "Review Kansas Stormwater page for future Tailwind Switch",
+          "time": 0.25
+        },
+        {
+          "key": 5,
+          "task": "HMR and Timesheet",
+          "time": 0.25
+        }
+      ]
+    },
+    "total": 21,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Onboarding and Orientation",
+        "time": 14
+      },
+      {
+        "key": 2,
+        "task": "HR Paperwork",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Laptop Setup",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "NINJIO and Wilson University",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "Install Outlook",
+        "time": 0
+      },
+      {
+        "key": 6,
+        "task": "Training on the Development Lifecycle",
+        "time": 4.25
+      },
+      {
+        "key": 7,
+        "task": "Learn about process for creating a staging environment",
+        "time": 0
+      },
+      {
+        "key": 8,
+        "task": "Learn about the coding behind our projects",
+        "time": 0
+      },
+      {
+        "key": 9,
+        "task": "Tailwind Migration Projects",
+        "time": 2
+      },
+      {
+        "key": 10,
+        "task": "Wilson Railway Feedback Breakdown",
+        "time": 0
+      },
+      {
+        "key": 11,
+        "task": "Kansas Stormwater Page Review for future migration",
+        "time": 0
+      },
+      {
+        "key": 12,
+        "task": "Installed Various Software",
+        "time": 0.75
+      },
+      {
+        "key": 13,
+        "task": "Misses: none",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "7/15/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Wilson Railway Tailwind Migration feedback breakdown",
+          "time": 1.5
+        },
+        {
+          "key": 2,
+          "task": "How to Change the Language on OneConnectKnowledge Base article",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Tailwind Migration Projects",
+          "time": 2
+        },
+        {
+          "key": 4,
+          "task": "Wilson Railway Tailwind Migration Code Review",
+          "time": 0
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Testingdeployed Wilson Railway and OneConnect changes",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "How to Change the Language on OneConnect Knowledge Base article",
+          "time": 1
+        },
+        {
+          "key": 3,
+          "task": "OneNote Documentation",
+          "time": 1.5
+        },
+        {
+          "key": 4,
+          "task": "Testing Wilson Railway",
+          "time": 0
+        },
+        {
+          "key": 5,
+          "task": "Training on the Development Lifecycle",
+          "time": 1
+        },
+        {
+          "key": 6,
+          "task": "IT Team Meeting",
+          "time": 0
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Training on the Development Lifecycle",
+          "time": 4
+        },
+        {
+          "key": 2,
+          "task": "Tailwind Staging Code Review",
+          "time": 0
+        },
+        {
+          "key": 3,
+          "task": "Code Review for integration fix for an inconsistent vendor's API",
+          "time": 0
+        },
+        {
+          "key": 4,
+          "task": "OneConnect widget staging prototype demonstration",
+          "time": 0
+        },
+        {
+          "key": 5,
+          "task": "Learn more about APIs",
+          "time": 0
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Familiarize myself with the OneConnectStaffbase Widgets staging page",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "OneNote Documentation",
+          "time": 1
+        },
+        {
+          "key": 3,
+          "task": "Locations of staffbase widgets in OneConnect",
+          "time": 0
+        },
+        {
+          "key": 4,
+          "task": "Watch Video on Markdown",
+          "time": 1
+        },
+        {
+          "key": 5,
+          "task": "Watch Video on Clean Code",
+          "time": 1.5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Review Staffbase Widget Testing Site",
+          "time": 0.25
+        },
+        {
+          "key": 2,
+          "task": "Watch Video on Clean Code",
+          "time": 1.5
+        },
+        {
+          "key": 3,
+          "task": "Training on the Development Lifecycle",
+          "time": 1.5
+        },
+        {
+          "key": 4,
+          "task": "Staffbase Widget Testing Site Code Review",
+          "time": 0
+        },
+        {
+          "key": 5,
+          "task": "Read Inspired",
+          "time": 0.75
+        }
+      ]
+    },
+    "total": 20,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Tailwind Migration Projects",
+        "time": 4
+      },
+      {
+        "key": 2,
+        "task": "Wilson Railway Tailwind Migration feedback breakdown",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Wilson Railway Tailwind Migration Code Review",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Testing deployed Wilson Railway and OneConnect changes",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "Testing",
+        "time": 0.75
+      },
+      {
+        "key": 6,
+        "task": "Familiarize myself with the OneConnectStaffbase Widgets staging page",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Knowledge Base Articles",
+        "time": 1.5
+      },
+      {
+        "key": 8,
+        "task": "How to Change the Language on OneConnect",
+        "time": 0
+      },
+      {
+        "key": 9,
+        "task": "OneNote Documentation",
+        "time": 2.5
+      },
+      {
+        "key": 10,
+        "task": "How to test Wilson Railway",
+        "time": 0
+      },
+      {
+        "key": 11,
+        "task": "Locations of staffbase widgets in OneConnect",
+        "time": 0
+      },
+      {
+        "key": 12,
+        "task": "Training on the Development Lifecycle",
+        "time": 6.5
+      },
+      {
+        "key": 13,
+        "task": "Tailwind Staging Code Review",
+        "time": 0
+      },
+      {
+        "key": 14,
+        "task": "Code Review for integration fix for an inconsistent vendor's API",
+        "time": 0
+      },
+      {
+        "key": 15,
+        "task": "OneConnect widget staging prototype demonstration",
+        "time": 0
+      },
+      {
+        "key": 16,
+        "task": "Learn more about APIs",
+        "time": 0
+      },
+      {
+        "key": 17,
+        "task": "Staffbase Widget Testing Site Code Review",
+        "time": 0
+      },
+      {
+        "key": 18,
+        "task": "Learning/Reading/Videos",
+        "time": 4.75
+      },
+      {
+        "key": 19,
+        "task": "Watch Video on Markdown",
+        "time": 0
+      },
+      {
+        "key": 20,
+        "task": "Watch Video on Clean Code",
+        "time": 0
+      },
+      {
+        "key": 21,
+        "task": "Reading Inspired",
+        "time": 0
+      },
+      {
+        "key": 22,
+        "task": "Misses: none",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "7/20/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Learning about HTML",
+          "time": 1.5
+        },
+        {
+          "key": 2,
+          "task": "Testing OneConnectStaffbase Widgets web app",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Learning about Tailwind",
+          "time": 2
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Testing OneConnectStaffbase Widgets",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Testing Wilson Railway",
+          "time": 1
+        },
+        {
+          "key": 3,
+          "task": "Learning about Tailwind",
+          "time": 1.25
+        },
+        {
+          "key": 4,
+          "task": "Team Meeting",
+          "time": 0.75
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Learning about Tailwind",
+          "time": 2.75
+        },
+        {
+          "key": 2,
+          "task": "Learning about Javascript",
+          "time": 1.25
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Learning about Javascript",
+          "time": 1.5
+        },
+        {
+          "key": 2,
+          "task": "Meeting: Setting up and deploying KS Stormwater staging website",
+          "time": 1.5
+        },
+        {
+          "key": 3,
+          "task": "Test KS Stormwater staging website",
+          "time": 1
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Test KS Stormwater staging website",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Test Staffbase Widgets",
+          "time": 1
+        }
+      ]
+    },
+    "total": 20,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Learning",
+        "time": 10.25
+      },
+      {
+        "key": 2,
+        "task": "Learning about HTML",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Learning about Tailwind",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Learning about Javascript",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "Testing",
+        "time": 7.5
+      },
+      {
+        "key": 6,
+        "task": "OneConnectStaffbase Widgets testing",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Wilson Railway Testing",
+        "time": 0
+      },
+      {
+        "key": 8,
+        "task": "Kansas Stormwater Testing",
+        "time": 0
+      },
+      {
+        "key": 9,
+        "task": "Training on the Development Lifecycle",
+        "time": 2.25
+      },
+      {
+        "key": 10,
+        "task": "Setting up and deploying KS Stormwater staging website",
+        "time": 0
+      },
+      {
+        "key": 11,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "7/27/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "OneConnect widget testing",
+          "time": 1.5
+        },
+        {
+          "key": 2,
+          "task": "Learning about tailwind",
+          "time": 2.5
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "OneConnect widget testing",
+          "time": 1.5
+        },
+        {
+          "key": 2,
+          "task": "Learning about javascript",
+          "time": 1.25
+        },
+        {
+          "key": 3,
+          "task": "IT Meeting",
+          "time": 1.25
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Tailwind stagingcomponent testing",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Leaning about tailwind",
+          "time": 2
+        },
+        {
+          "key": 3,
+          "task": "Nav bar code review",
+          "time": 1
+        }
+      ]
+    },
+    "total": 12,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Testing",
+        "time": 4
+      },
+      {
+        "key": 2,
+        "task": "OneConnect widget testing",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Tailwind component testing",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Training on the Development Lifecycle",
+        "time": 2.25
+      },
+      {
+        "key": 5,
+        "task": "Navbar code review",
+        "time": 0
+      },
+      {
+        "key": 6,
+        "task": "Learning",
+        "time": 5.75
+      },
+      {
+        "key": 7,
+        "task": "Learning about Tailwind CSS",
+        "time": 0
+      },
+      {
+        "key": 8,
+        "task": "Learning about Javascript",
+        "time": 0
+      },
+      {
+        "key": 9,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "8/3/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Learning about Javascript",
+          "time": 4.75
+        },
+        {
+          "key": 2,
+          "task": "Testing Knowledge Base widget on OneConnect",
+          "time": 3.25
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Tuesday meeting",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Learning about Javascript",
+          "time": 7
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Meeting learning about team expansionand hierarchy",
+          "time": 1.5
+        },
+        {
+          "key": 2,
+          "task": "Learning about Javascript",
+          "time": 2.25
+        },
+        {
+          "key": 3,
+          "task": "Create Knowledge Base Template",
+          "time": 1.5
+        },
+        {
+          "key": 4,
+          "task": "Review and give feedback for AI Summaries",
+          "time": 2.75
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Test OneConnect widget",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Knowledge Base reformatting",
+          "time": 2
+        },
+        {
+          "key": 3,
+          "task": "Learning about Javascript",
+          "time": 0.75
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Test OneConnect widget",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Learning about Javascript",
+          "time": 3
+        },
+        {
+          "key": 3,
+          "task": "Learningabout Node JS",
+          "time": 2
+        },
+        {
+          "key": 4,
+          "task": "Knowledge Base reformatting",
+          "time": 2
+        }
+      ]
+    },
+    "total": 0,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Testing",
+        "time": 8
+      },
+      {
+        "key": 2,
+        "task": "Testing Knowledge Base widget on OneConnect",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Testing AI Summaries",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Testing OneConnect Widgets",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "Knowledge Base Reformatting",
+        "time": 5.5
+      },
+      {
+        "key": 6,
+        "task": "Creating Knowledge Base template and example",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Reformatting articles",
+        "time": 0
+      },
+      {
+        "key": 8,
+        "task": "Training on the Development Lifecycle",
+        "time": 2.5
+      },
+      {
+        "key": 9,
+        "task": "Learning about development team expansion",
+        "time": 0
+      },
+      {
+        "key": 10,
+        "task": "Learning about development team hierarchy",
+        "time": 0
+      },
+      {
+        "key": 11,
+        "task": "Learning",
+        "time": 19.75
+      },
+      {
+        "key": 12,
+        "task": "Learning about Javascript",
+        "time": 0
+      },
+      {
+        "key": 13,
+        "task": "Learning about Node JS",
+        "time": 0
+      },
+      {
+        "key": 14,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "8/10/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Further Familiarizing myself with the Field Portal Website",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "Testing backend updates to OneConnect Knowledge Base Widget",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Meeting: Learning about databases",
+          "time": 0.25
+        },
+        {
+          "key": 4,
+          "task": "Learning about Express JS",
+          "time": 6.75
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Learning about Java",
+          "time": 2.75
+        },
+        {
+          "key": 2,
+          "task": "Testing Web Appswebsite",
+          "time": 1.5
+        },
+        {
+          "key": 3,
+          "task": "Testing Field Portal website",
+          "time": 1.75
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Testing Field Portal",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Researching IT System Management softwares",
+          "time": 3.5
+        },
+        {
+          "key": 3,
+          "task": "Testing Tailwind staging page",
+          "time": 0.75
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Researching IT System Management softwares",
+          "time": 4.5
+        },
+        {
+          "key": 2,
+          "task": "Testing Stormwater tailwind migration update",
+          "time": 3.5
+        }
+      ]
+    },
+    "total": 27.25,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Web App familiarization and testing",
+        "time": 9.5
+      },
+      {
+        "key": 2,
+        "task": "Further Familiarizing myself with the Field Portal Website",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Testing backend updates to OneConnect Knowledge Base Widget",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Testing Web Apps",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "Testing Field Portal",
+        "time": 0
+      },
+      {
+        "key": 6,
+        "task": "Testing Tailwind staging page",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Testing Stormwater tailwind migration update",
+        "time": 0
+      },
+      {
+        "key": 8,
+        "task": "Researching IT System Management software",
+        "time": 8
+      },
+      {
+        "key": 9,
+        "task": "Learning",
+        "time": 9.75
+      },
+      {
+        "key": 10,
+        "task": "Learning about databases",
+        "time": 0
+      },
+      {
+        "key": 11,
+        "task": "Learning about Java",
+        "time": 0
+      },
+      {
+        "key": 12,
+        "task": "Learning about Express JS",
+        "time": 0
+      },
+      {
+        "key": 13,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "8/17/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Testing KS Stormwater production page",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "Testing Railway production page",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Researching IT System Management software",
+          "time": 1
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Researching IT System Management software",
+          "time": 5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Researching IT System Management software",
+          "time": 5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Researching IT System Management software",
+          "time": 3
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Testing",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "Testing KS Stormwater production page",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Testing Wilson Railway production page",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Researching IT System Management software",
+        "time": 14
+      },
+      {
+        "key": 5,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "8/24/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Learn about Kanban and Jira and dev process",
+          "time": 2
+        },
+        {
+          "key": 2,
+          "task": "ITSM discussion",
+          "time": 1
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "ITSM research",
+          "time": 4
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "ITSM research",
+          "time": 3
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Jira and Jira Service Management integration research",
+          "time": 5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Learning about Kanban",
+          "time": 1
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "IT System Management project",
+        "time": 8
+      },
+      {
+        "key": 2,
+        "task": "ITSM discussion",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "ITSM research",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Research Jira and Jira Service Management integration",
+        "time": 5
+      },
+      {
+        "key": 5,
+        "task": "Learning",
+        "time": 3
+      },
+      {
+        "key": 6,
+        "task": "Kanban",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Jira",
+        "time": 0
+      },
+      {
+        "key": 8,
+        "task": "Development process",
+        "time": 0
+      },
+      {
+        "key": 9,
+        "task": "Misses: none",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "8/31/2024",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Learning about Javascript",
+          "time": 3.75
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Learning about Javascript",
+          "time": 2
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Learning about Javascript",
+          "time": 1.5
+        },
+        {
+          "key": 2,
+          "task": "Learning about Kanban and project management",
+          "time": 2
+        },
+        {
+          "key": 3,
+          "task": "Learning to create a task on Jira",
+          "time": 0.25
+        },
+        {
+          "key": 4,
+          "task": "Applying templates to all public Freshservice Knowledge Base articles",
+          "time": 1.5
+        }
+      ]
+    },
+    "total": 11,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Learning about Javascript",
+        "time": 7.25
+      },
+      {
+        "key": 2,
+        "task": "Learning to create a task on Jira",
+        "time": 0.25
+      },
+      {
+        "key": 3,
+        "task": "Learning about Kanban and project management",
+        "time": 2
+      },
+      {
+        "key": 4,
+        "task": "Applying templates to all public Freshservice Knowledge Base articles",
+        "time": 1.5
+      }
+    ]
+  },
+  {
+    "week": "9/7/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Apply a template to all public Freshservice Knowledge Base articles",
+          "time": 3
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Apply a template to all public Freshservice Knowledge Base articles",
+          "time": 4
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Testing FormFieldCheckboxes tailwind feature",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Apply a template to all public Freshservice Knowledge Base articles",
+          "time": 1
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Apply a template to all public Freshservice Knowledge Base articles",
+          "time": 0.25
+        },
+        {
+          "key": 2,
+          "task": "Learn about Development Cycle",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Evaluate CSM options and costs for UIC Field Permitting Portal",
+          "time": 4.25
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Evaluate landing page options for UIC Field Permitting Portal",
+          "time": 1
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Applying a template to all public Freshservice Knowledge Base articles",
+        "time": 8.25
+      },
+      {
+        "key": 2,
+        "task": "Testing FormFieldCheckboxes tailwind feature",
+        "time": 1
+      },
+      {
+        "key": 3,
+        "task": "Learn about the development cycle",
+        "time": 0.5
+      },
+      {
+        "key": 4,
+        "task": "Evaluations",
+        "time": 5.25
+      },
+      {
+        "key": 5,
+        "task": "Evaluate CSM options and costs for UIC Field Permitting Portal",
+        "time": 0
+      },
+      {
+        "key": 6,
+        "task": "Evaluate landing page options for UIC Field Permitting Portal",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "9/14/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Evaluate landing page options for UIC Field Permitting Portal",
+          "time": 3
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Evaluate landing page options for UIC Field Permitting Portal",
+          "time": 4
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Apply a template to all public Freshservice Knowledge Base articles",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Learning about Figma and FigJam",
+          "time": 1
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Learning about Figma and FigJam",
+          "time": 0.25
+        },
+        {
+          "key": 2,
+          "task": "Apply a template to all public Freshservice Knowledge Base articles",
+          "time": 4.75
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Apply a template to all public Freshservice Knowledge Base articles",
+          "time": 1
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Evaluate landing page options for UIC Field Permitting Portal",
+        "time": 7
+      },
+      {
+        "key": 2,
+        "task": "Apply a template to all public Freshservice Knowledge Base articles",
+        "time": 6.75
+      },
+      {
+        "key": 3,
+        "task": "Learning about Figma and FigJam",
+        "time": 1.25
+      },
+      {
+        "key": 4,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "9/21/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Apply a template to all public Freshservice Knowledge Base articles",
+          "time": 3
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Apply a template to all public Freshservice Knowledge Base articles",
+          "time": 2
+        },
+        {
+          "key": 2,
+          "task": "Taking Figma trainings and familiarizingmyself with our library",
+          "time": 2
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Taking Figma trainings and familiarizingmyself with our library",
+          "time": 2
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Taking Figma trainings and familiarizingmyself with our library",
+          "time": 5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Taking Figma trainings and familiarizingmyself with our library",
+          "time": 1
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Apply a template to all public Freshservice Knowledge Base articles",
+        "time": 5
+      },
+      {
+        "key": 2,
+        "task": "Taking Figma trainings and familiarizingmyself with our library",
+        "time": 10
+      },
+      {
+        "key": 3,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "10/5/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "QA testing for Textbox input masking on the Tailwind Staging site",
+          "time": 1.75
+        },
+        {
+          "key": 2,
+          "task": "]",
+          "time": 0
+        },
+        {
+          "key": 3,
+          "task": "Tweak existing components in Figma for Tailwind consistency: :",
+          "time": 1.25
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Tweak existing components in Figma for Tailwind consistency: :",
+          "time": 5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Tweak existing components in Figma for Tailwind consistency: :",
+          "time": 2
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Tweak existing components in Figma for Tailwind consistency: :",
+          "time": 5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Tweak existing components in Figma for Tailwind consistency: :",
+          "time": 3
+        }
+      ]
+    },
+    "total": 18,
+    "hits": [
+      {
+        "key": 1,
+        "task": "QA testing for Textbox input masking on the Tailwind Staging site",
+        "time": 1.75
+      },
+      {
+        "key": 2,
+        "task": "]",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Tweak existing components in Figma for Tailwind consistency: :",
+        "time": 16.25
+      },
+      {
+        "key": 4,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "10/12/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Tweak existing components in Figma for Tailwind consistency: :",
+          "time": 2
+        },
+        {
+          "key": 2,
+          "task": "Extend the Textbox component in Figma",
+          "time": 1
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Extend the Textbox component in Figma",
+          "time": 2
+        },
+        {
+          "key": 2,
+          "task": "Create Checkbox and Radio components in Figma",
+          "time": 3
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Create an InfoIcon component in Figma",
+          "time": 2
+        }
+      ]
+    },
+    "total": 11,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Tweak and create components in Figma for Tailwind consistency",
+        "time": 11
+      },
+      {
+        "key": 2,
+        "task": "Extend the Icon component",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Extent the Select component",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Extend the Textbox component",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "Create Checkbox and Radio components",
+        "time": 0
+      },
+      {
+        "key": 6,
+        "task": "Create an InfoIcon component",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "10/26/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Learning about Retool",
+          "time": 2
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Learning about Retool",
+          "time": 5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Learning about Retool",
+          "time": 2
+        }
+      ]
+    },
+    "total": 9,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Learning about Retool",
+        "time": 9
+      },
+      {
+        "key": 2,
+        "task": "Misses: None",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "11/2/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Migrate \"External Development IT Topology\" to Confluence",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Add JotForm form text and fields to Railroad Scheduling Retool app",
+          "time": 1
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Add JotForm form text and fields to Railroad Scheduling Retool app",
+          "time": 4
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Add JotForm form text and fields to Railroad Scheduling Retool app",
+          "time": 3
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Add JotForm form text and fields to Railroad Scheduling Retool app",
+          "time": 5
+        }
+      ],
+      "Saturday": [
+        {
+          "key": 1,
+          "task": "Confluence trainings",
+          "time": 2.5
+        }
+      ]
+    },
+    "total": 16.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Migrate \"External Development IT Topology\" to Confluence",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "Confluence trainings",
+        "time": 2.5
+      },
+      {
+        "key": 3,
+        "task": "Add JotForm form text and fields to Railroad Scheduling Retool app",
+        "time": 13
+      }
+    ]
+  },
+  {
+    "week": "11/9/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Add JotForm form text and fields to Railroad Scheduling Retool app",
+          "time": 3
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Add JotForm form text and fields to Railroad Scheduling Retool app",
+          "time": 2
+        },
+        {
+          "key": 2,
+          "task": "Re-create Visio data maps as Confluence whiteboards",
+          "time": 3
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Re-create Visio data maps as Confluence whiteboards",
+          "time": 2
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Explore Figma's Syncfusion library",
+          "time": 5
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Add JotForm form text and fields to Railroad Scheduling Retool app",
+        "time": 5
+      },
+      {
+        "key": 2,
+        "task": "Re-create Visio data maps as Confluence whiteboards",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "week": "11/16/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Explore the Syncfusion library in Figma",
+          "time": 3
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Explore the Syncfusion library in Figma",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Finish building out Wilson & Company Retool theme",
+          "time": 2.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Explore the Syncfusion library in Figma",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Finish building out Wilson & Company Retool theme",
+          "time": 2
+        },
+        {
+          "key": 3,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 1
+        }
+      ]
+    },
+    "total": 10.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Explore the Syncfusion library in Figma",
+        "time": 5
+      },
+      {
+        "key": 2,
+        "task": "Finish building out Wilson & Company Retool theme",
+        "time": 4.5
+      },
+      {
+        "key": 3,
+        "task": "Assess hosted website builder tools for external sites",
+        "time": 1
+      }
+    ]
+  },
+  {
+    "week": "11/30/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 3
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 2
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 5
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Assess hosted website builder tools for external sites",
+        "time": 15
+      }
+    ]
+  },
+  {
+    "week": "12/7/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Research viable candidates for web hosting Railway/Stormwater sites",
+          "time": 3
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Research viable candidates for web hosting Railway/Stormwater sites",
+          "time": 5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Research viable candidates for web hosting Railway/Stormwater sites",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Re-creating the KS Stormwater website in Squarespace",
+          "time": 1
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Re-creating the KS Stormwater website in Squarespace",
+          "time": 4.5
+        },
+        {
+          "key": 2,
+          "task": "Re-creating the KS Stormwater website in Wix",
+          "time": 0.5
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Research viable candidates for web hosting Railway/Stormwater sites",
+        "time": 9
+      },
+      {
+        "key": 2,
+        "task": "Re-creating the KS Stormwater website in Squarespace",
+        "time": 5.5
+      },
+      {
+        "key": 3,
+        "task": "Re-creating the KS Stormwater website in Wix",
+        "time": 0.5
+      }
+    ]
+  },
+  {
+    "week": "12/14/2024",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Perform QA on UIC Permit Tracking app",
+          "time": 7
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Learning the Development Lifecycle",
+          "time": 4
+        },
+        {
+          "key": 2,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 3.5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Udemy Training",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 4
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Learning the Development Lifecycle",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 4
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 5.5
+        },
+        {
+          "key": 2,
+          "task": "Udemy Training",
+          "time": 1.5
+        }
+      ]
+    },
+    "total": 35.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Perform QA on UIC Permit Tracking app",
+        "time": 7
+      },
+      {
+        "key": 2,
+        "task": "Learning the Development Lifecycle",
+        "time": 7
+      },
+      {
+        "key": 3,
+        "task": "Assess hosted website builder tools for external sites",
+        "time": 17
+      },
+      {
+        "key": 4,
+        "task": "Udemy Training",
+        "time": 4.5
+      }
+    ]
+  },
+  {
+    "week": "1/11/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Assess hosted website builder tools for external sites",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "Migrate the KS Stormwater site to a hosted service",
+          "time": 2
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Migrate the KS Stormwater site to a hosted service",
+          "time": 7
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Migrate the KS Stormwater site to a hosted service",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "JavaScript training on Udemy",
+          "time": 3
+        },
+        {
+          "key": 3,
+          "task": "QA the Tailwind Staging",
+          "time": 1
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "QA the Tailwind Staging",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "Document managing content on Wix Studio for KS Stormwater",
+          "time": 2.5
+        },
+        {
+          "key": 3,
+          "task": "JavaScript training on Udemy",
+          "time": 2
+        },
+        {
+          "key": 4,
+          "task": "Migrate the KS Stormwater site to a hosted service",
+          "time": 1
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Migrate the KS Stormwater site to a hosted service",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "JavaScript training on Udemy",
+          "time": 4
+        }
+      ]
+    },
+    "total": 0,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Assess hosted website builder tools for external sites",
+        "time": 5
+      },
+      {
+        "key": 2,
+        "task": "Migrate the KS Stormwater site to a hosted service",
+        "time": 16
+      },
+      {
+        "key": 3,
+        "task": "Document managing content on Wix Studio for KS Stormwater",
+        "time": 2.5
+      },
+      {
+        "key": 4,
+        "task": "JavaScript training on Udemy",
+        "time": 9
+      },
+      {
+        "key": 5,
+        "task": "QA the Tailwind Staging",
+        "time": 1.5
+      }
+    ]
+  },
+  {
+    "week": "1/18/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Finalize KS Stormwater Wix site",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "Test multiplayer editing on a Retool multi-page app",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Peer review UIC Permit aggregations and notifications card",
+          "time": 1
+        },
+        {
+          "key": 4,
+          "task": "Peer review for KS Stormwater Wix site",
+          "time": 0.5
+        },
+        {
+          "key": 5,
+          "task": "Testing UIC Permit aggregations and notifications",
+          "time": 0.5
+        },
+        {
+          "key": 6,
+          "task": "Javascript training with Udemy and Codewars",
+          "time": 3
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Javascript training with Udemy",
+          "time": 2.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Javascript training with Udemy",
+          "time": 4.5
+        },
+        {
+          "key": 2,
+          "task": "Familiarizing with the Cloud API Swagger interface",
+          "time": 2
+        }
+      ]
+    },
+    "total": 0,
+    "hits": [
+      {
+        "key": 1,
+        "task": "KS Stormwater Wix site",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "Finalize KS Stormwater Wix site",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "Peer review for KS Stormwater Wix site",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "UIC Permit aggregations and notifications",
+        "time": 1.5
+      },
+      {
+        "key": 5,
+        "task": "Peer review UIC Permit aggregations and notifications card",
+        "time": 0
+      },
+      {
+        "key": 6,
+        "task": "Testing UIC Permit aggregations and notifications",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Test multiplayer editing on a Retool multi-page app",
+        "time": 0.5
+      },
+      {
+        "key": 8,
+        "task": "Javascript training with",
+        "time": 10
+      },
+      {
+        "key": 9,
+        "task": "Udemy",
+        "time": 0
+      },
+      {
+        "key": 10,
+        "task": "Codewars",
+        "time": 0
+      },
+      {
+        "key": 11,
+        "task": "Familiarizing with the Cloud API Swagger interface",
+        "time": 2
+      }
+    ]
+  },
+  {
+    "week": "1/25/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Test the curved arrows on the Confluence Data Maps",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "Udemy training for JavaScript",
+          "time": 3
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Udemy training for JavaScript",
+          "time": 2.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "QA for Q1 updates",
+          "time": 3.5
+        },
+        {
+          "key": 2,
+          "task": "Udemy training for JavaScript",
+          "time": 3.5
+        }
+      ]
+    },
+    "total": 0,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Test the curved arrows on the Confluence Data Maps",
+        "time": 0.5
+      },
+      {
+        "key": 2,
+        "task": "Udemy training for JavaScript",
+        "time": 9
+      },
+      {
+        "key": 3,
+        "task": "QA for Q1 updates",
+        "time": 3.5
+      }
+    ]
+  },
+  {
+    "week": "2/8/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Wilson University Training",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Quick test the Field Portal and WebApps styling via CDN",
+          "time": 0.25
+        },
+        {
+          "key": 3,
+          "task": "QA for Cloud API Informer updates",
+          "time": 0.25
+        },
+        {
+          "key": 4,
+          "task": "Udemytraining for JavaScript",
+          "time": 4
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Codewars training for JavaScript",
+          "time": 2.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Developer Goals/Offer Meeting",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Udemy training for JavaScript",
+          "time": 3
+        }
+      ]
+    },
+    "total": 0,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Wilson University Training",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "QA",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "Quick test the Field Portal and WebApps styling via CDN",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "QA for Cloud API Informer updates",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "Javascript training",
+        "time": 9.5
+      },
+      {
+        "key": 6,
+        "task": "Udemy",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Codewars",
+        "time": 0
+      },
+      {
+        "key": 8,
+        "task": "Developer Goals/Offer Meeting",
+        "time": 3
+      }
+    ]
+  },
+  {
+    "week": "2/15/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Explore the MUI Figma library",
+          "time": 5.5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Explore the MUI Figma library",
+          "time": 2.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Explore the MUI Figma library",
+          "time": 4
+        },
+        {
+          "key": 2,
+          "task": "Javascript Training with Udemy",
+          "time": 2
+        },
+        {
+          "key": 3,
+          "task": "One Company Meeting",
+          "time": 1
+        },
+        {
+          "key": 4,
+          "task": "Troy 1 on 1",
+          "time": 0.5
+        }
+      ]
+    },
+    "total": 15.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Explore the MUI Figma library",
+        "time": 12
+      },
+      {
+        "key": 2,
+        "task": "Javascript Training with Udemy",
+        "time": 2
+      },
+      {
+        "key": 3,
+        "task": "One Company Meeting",
+        "time": 1
+      },
+      {
+        "key": 4,
+        "task": "Troy 1 on 1",
+        "time": 0.5
+      }
+    ]
+  },
+  {
+    "week": "2/22/2025",
+    "days": {
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Javascript training on Udemy",
+          "time": 3.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Javascript and Database training on Udemy",
+          "time": 7.5
+        }
+      ]
+    },
+    "total": 11,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Javascript and Database training on Udemy",
+        "time": 11
+      }
+    ]
+  },
+  {
+    "week": "3/1/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Work with the Outstanding widget in CodeSandbox",
+          "time": 5.5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "QA the Cloud API for the Field Portal dataset card",
+          "time": 2.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "QA the Cloud API for the Field Portal dataset card",
+          "time": 0.75
+        },
+        {
+          "key": 2,
+          "task": "Work with the Outstanding widget in CodeSandbox",
+          "time": 0.75
+        },
+        {
+          "key": 3,
+          "task": "Udemy training for JavaScript",
+          "time": 4
+        }
+      ]
+    },
+    "total": 13.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Work with the Outstanding widget in CodeSandbox",
+        "time": 6.25
+      },
+      {
+        "key": 2,
+        "task": "QA the Cloud API for the Field Portal dataset card",
+        "time": 3.25
+      },
+      {
+        "key": 3,
+        "task": "Udemy training for JavaScript",
+        "time": 4
+      }
+    ]
+  },
+  {
+    "week": "3/8/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Work with the Outstanding widget in CodeSandbox",
+          "time": 4
+        },
+        {
+          "key": 2,
+          "task": "Javascript training on Udemy [1.5 hours]",
+          "time": 0
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "QA of UIC Permits widget prototype in CodeSandbox",
+          "time": 2
+        },
+        {
+          "key": 2,
+          "task": "Javascript training on Udemy [0.5 hours]",
+          "time": 0
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Javascript training on Udemy [7 hours]",
+          "time": 0
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Work with the Outstanding widget in CodeSandbox",
+        "time": 4
+      },
+      {
+        "key": 2,
+        "task": "QA of UIC Permits widget prototype in CodeSandbox",
+        "time": 2
+      },
+      {
+        "key": 3,
+        "task": "Javascript training on Udemy [9 hours]",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "3/22/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Javascript Learning with Udemy",
+          "time": 4.25
+        },
+        {
+          "key": 2,
+          "task": "QA the Cloud API Informer form data endpoint",
+          "time": 1.25
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Javascript Learning with Udemy",
+          "time": 2.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Javascript Learning with Udemy",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "Discuss mocking up the OneConnect widget designs in CodeSandbox [1.25 hours]",
+          "time": 0
+        }
+      ]
+    },
+    "total": 0,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Javascript Learning with Udemy",
+        "time": 11.75
+      },
+      {
+        "key": 2,
+        "task": "QA the Cloud API Informer form data endpoint",
+        "time": 1.25
+      },
+      {
+        "key": 3,
+        "task": "Discuss mocking up the OneConnect widget designs in CodeSandbox [1.25 hours]",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "14.25 hours",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "3/29/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Mock up the OneConnect widget designs in CodeSandbox",
+          "time": 15
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Mock up the OneConnect widget designs in CodeSandbox",
+        "time": 15
+      }
+    ]
+  },
+  {
+    "week": "4/19/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Mock up the OneConnect widget designs in CodeSandbox",
+          "time": 3.75
+        },
+        {
+          "key": 2,
+          "task": "Javascript training on Udemy",
+          "time": 2
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Javascript training on Udemy",
+          "time": 2.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Javascript training on Udemy",
+          "time": 5.5
+        }
+      ]
+    },
+    "total": 13.75,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Mock up the OneConnect widget designs in CodeSandbox",
+        "time": 3.75
+      },
+      {
+        "key": 2,
+        "task": "Javascript training on Udemy",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "week": "5/24/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Migrate UIC Permit Tracking app pages from Retool to MUI",
+          "time": 5.25
+        },
+        {
+          "key": 2,
+          "task": "QA the Practice Area changes",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Javascript Training",
+          "time": 2.75
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Migrate UIC Permit Tracking app pages from Retool to MUI",
+          "time": 6
+        },
+        {
+          "key": 2,
+          "task": "Javascript Training",
+          "time": 2
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Javascript Training",
+          "time": 6.5
+        },
+        {
+          "key": 2,
+          "task": "Migrate UIC Permit Tracking app pages from Retool to MUI",
+          "time": 1
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "MUI Testing",
+          "time": 7
+        },
+        {
+          "key": 2,
+          "task": "Javascript Training",
+          "time": 1
+        }
+      ]
+    },
+    "total": 32,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Migrate UIC Permit Tracking app pages from Retool to MUI",
+        "time": 12.25
+      },
+      {
+        "key": 2,
+        "task": "MUI Testing",
+        "time": 7
+      },
+      {
+        "key": 3,
+        "task": "QA the Practice Area changes",
+        "time": 0.5
+      },
+      {
+        "key": 4,
+        "task": "Javascript Training",
+        "time": 12.25
+      }
+    ]
+  },
+  {
+    "week": "5/31/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Add alerts to the UIC Permit MUI design",
+          "time": 8
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Add alerts to the UIC Permit MUI design",
+          "time": 3.25
+        },
+        {
+          "key": 2,
+          "task": "Javascript Training",
+          "time": 4.75
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Add alerts to the UIC Permit MUI design",
+          "time": 7.25
+        },
+        {
+          "key": 2,
+          "task": "Javascript Training",
+          "time": 0.75
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Add alerts to the UIC Permit MUI design",
+          "time": 8.25
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "UIC Permit MUI design PR Fixes",
+          "time": 2.5
+        },
+        {
+          "key": 2,
+          "task": "Javascript Training",
+          "time": 5.25
+        }
+      ]
+    },
+    "total": 40,
+    "hits": [
+      {
+        "key": 1,
+        "task": "UIC Permit MUI design",
+        "time": 29.25
+      },
+      {
+        "key": 2,
+        "task": "Javascript Training",
+        "time": 10.75
+      }
+    ]
+  },
+  {
+    "week": "6/7/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "UIC Permit Tracking design",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Javascript learning",
+          "time": 7
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "UIC Permit Tracking design",
+          "time": 8
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "UIC Permit Tracking design",
+          "time": 5.5
+        },
+        {
+          "key": 2,
+          "task": "Javascript learning",
+          "time": 2.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Javascript learning",
+          "time": 8
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Javascript learning",
+          "time": 8
+        }
+      ]
+    },
+    "total": 40,
+    "hits": [
+      {
+        "key": 1,
+        "task": "UIC Permit Tracking design",
+        "time": 14.5
+      },
+      {
+        "key": 2,
+        "task": "Javascript learning",
+        "time": 25.5
+      }
+    ]
+  },
+  {
+    "week": "6/14/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Power BI MUI migration QA",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "MUI X UIC Permit Tracking",
+          "time": 3
+        },
+        {
+          "key": 3,
+          "task": "MUI X DataGrid list view prototype",
+          "time": 4.5
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "MUI X UIC Permit Tracking",
+          "time": 2
+        },
+        {
+          "key": 2,
+          "task": "MUI X DataGrid list view prototype",
+          "time": 4
+        },
+        {
+          "key": 3,
+          "task": "MongoDB Training",
+          "time": 2
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "MUI X UIC Permit Tracking",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "MongoDB Training",
+          "time": 3
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "MUI X UIC Permit Tracking",
+          "time": 7
+        },
+        {
+          "key": 2,
+          "task": "MongoDB Training",
+          "time": 1
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "MUI X UIC Permit Tracking",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "MongoDB Training",
+          "time": 4
+        }
+      ]
+    },
+    "total": 37,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Power BI MUI migration QA",
+        "time": 0.5
+      },
+      {
+        "key": 2,
+        "task": "MUI X UIC Permit Tracking",
+        "time": 5
+      },
+      {
+        "key": 3,
+        "task": "MUI X DataGrid Permit Tracking",
+        "time": 21.5
+      },
+      {
+        "key": 4,
+        "task": "MongoDB Training",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "week": "6/21/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Apple Developer Program license agreement for OneConnect",
+          "time": 0.75
+        },
+        {
+          "key": 2,
+          "task": "UIC Permit Tracking MUI Migration",
+          "time": 2
+        },
+        {
+          "key": 3,
+          "task": "Project Directory MUI Redesign",
+          "time": 4.75
+        },
+        {
+          "key": 4,
+          "task": "QA for Forms MUI Migration",
+          "time": 0.5
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "QA for Forms MUI Migration",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "Project Directory MUI Redesign",
+          "time": 5.25
+        },
+        {
+          "key": 3,
+          "task": "CR for Forms MUI Migration",
+          "time": 2
+        },
+        {
+          "key": 4,
+          "task": "Mongo DB Training",
+          "time": 0.25
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Project Directory MUI Redesign",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Mongo DB Training",
+          "time": 5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Mongo DB Training",
+          "time": 4
+        },
+        {
+          "key": 2,
+          "task": "UIC Permit Tracking MUI Migration",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Project Directory MUI Redesign",
+          "time": 1
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Mongo DB Training",
+          "time": 8
+        }
+      ]
+    },
+    "total": 37.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Apple Developer Program license agreement for OneConnect",
+        "time": 0.75
+      },
+      {
+        "key": 2,
+        "task": "UIC Permit Tracking MUI Migration",
+        "time": 2.5
+      },
+      {
+        "key": 3,
+        "task": "Project Directory MUI Redesign",
+        "time": 14
+      },
+      {
+        "key": 4,
+        "task": "QA for Forms MUI Migration",
+        "time": 1
+      },
+      {
+        "key": 5,
+        "task": "CR for Forms MUI Migration",
+        "time": 2
+      },
+      {
+        "key": 6,
+        "task": "Mongo DB Training",
+        "time": 17.25
+      }
+    ]
+  },
+  {
+    "week": "6/28/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "DataGrid shared component",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Project Directory MUI design",
+          "time": 1.5
+        },
+        {
+          "key": 3,
+          "task": "MongoDB Training",
+          "time": 3.5
+        },
+        {
+          "key": 4,
+          "task": "Onesync Workday MUI design",
+          "time": 2
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Onesync Workday MUI design",
+          "time": 8
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Onesync Workday MUI design",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "MongoDB Training",
+          "time": 2
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Onesync Workday MUI design",
+          "time": 4
+        },
+        {
+          "key": 2,
+          "task": "MongoDB Training",
+          "time": 4
+        }
+      ]
+    },
+    "total": 31,
+    "hits": [
+      {
+        "key": 1,
+        "task": "DataGrid shared component",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "Project Directory MUI design",
+        "time": 1.5
+      },
+      {
+        "key": 3,
+        "task": "Onesync Workday MUI design",
+        "time": 19
+      },
+      {
+        "key": 4,
+        "task": "MongoDB Training",
+        "time": 9.5
+      }
+    ]
+  },
+  {
+    "week": "7/5/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "OneSync MUI design migration",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "DataGrid column flexing card",
+          "time": 6
+        },
+        {
+          "key": 3,
+          "task": "MongoDB Training",
+          "time": 1
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "DataGrid column flexing card",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "OneSync design spinners/alerts",
+          "time": 3
+        },
+        {
+          "key": 3,
+          "task": "MongoDB training",
+          "time": 4
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "QA and CR for TypeScript tweaks on WCI-Designs",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "MongoDB training",
+          "time": 5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "MongoDB training",
+          "time": 8
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "MongoDB training",
+          "time": 8
+        }
+      ]
+    },
+    "total": 40,
+    "hits": [
+      {
+        "key": 1,
+        "task": "OneSync MUI design migration",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "DataGrid column flexing card",
+        "time": 7
+      },
+      {
+        "key": 3,
+        "task": "OneSync design spinners/alerts",
+        "time": 3
+      },
+      {
+        "key": 4,
+        "task": "QA and CR for TypeScript tweaks on WCI-Designs",
+        "time": 3
+      },
+      {
+        "key": 5,
+        "task": "MongoDB Training",
+        "time": 26
+      }
+    ]
+  },
+  {
+    "week": "7/12/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 7
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Archive Lookup MUI migration QA and CR",
+          "time": 3.5
+        },
+        {
+          "key": 2,
+          "task": "Knowledge Base Articles QA",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Explore new MUI X chart zoom feature",
+          "time": 4
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 7
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 8
+        }
+      ]
+    },
+    "total": 35,
+    "hits": [
+      {
+        "key": 1,
+        "task": "MongoDB Training",
+        "time": 27
+      },
+      {
+        "key": 2,
+        "task": "Archive Lookup MUI migration QA and CR",
+        "time": 3.5
+      },
+      {
+        "key": 3,
+        "task": "Knowledge Base Articles QA",
+        "time": 0.5
+      },
+      {
+        "key": 4,
+        "task": "Explore new MUI X chart zoom feature",
+        "time": 4
+      }
+    ]
+  },
+  {
+    "week": "7/19/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Determine if the conditional list view column logic in MUI X v8.9.1 requires any changes in our code",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Project Directory widget migration QA and CR",
+          "time": 2.5
+        },
+        {
+          "key": 3,
+          "task": "QA for Staffbase widget API TypeScript conversion",
+          "time": 0.5
+        },
+        {
+          "key": 4,
+          "task": "MongoDB Training",
+          "time": 4
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 8
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 2
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 8
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 8
+        }
+      ]
+    },
+    "total": 34,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Determine if the conditional list view column logic in MUI X v8.9.1 requires any changes in our code",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "Project Directory widget migration QA and CR",
+        "time": 2.5
+      },
+      {
+        "key": 3,
+        "task": "QA for Staffbase widget API TypeScript conversion",
+        "time": 0.5
+      },
+      {
+        "key": 4,
+        "task": "MongoDB Training",
+        "time": 30
+      }
+    ]
+  },
+  {
+    "week": "7/26/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 4.5
+        },
+        {
+          "key": 2,
+          "task": "Make changes to the Knowledge Base widget in WCI-Designs",
+          "time": 0.5
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "QA for the KB widget MUI migration",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "MongoDB Training",
+          "time": 3
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "QA the Educations Data Hub migration",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "QA for the KB widget MUI migration",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "MongoDB Training",
+          "time": 7
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 4.5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 8
+        }
+      ]
+    },
+    "total": 29,
+    "hits": [
+      {
+        "key": 1,
+        "task": "MongoDB Training",
+        "time": 27
+      },
+      {
+        "key": 2,
+        "task": "Make changes to the Knowledge Base widget in WCI-Designs",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "QA for the KB widget MUI migration",
+        "time": 1
+      },
+      {
+        "key": 4,
+        "task": "QA the Educations Data Hub migration",
+        "time": 0.5
+      }
+    ]
+  },
+  {
+    "week": "8/2/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Remove barrel imports from the Designs project",
+          "time": 4
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "QA for the Field Portal Q3 updates",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "QA for the frequent SQL Data Hub workflow",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "QA for the Outstanding widget MUI",
+          "time": 0.5
+        },
+        {
+          "key": 4,
+          "task": "Remove barrel imports from the Designs project",
+          "time": 5.5
+        },
+        {
+          "key": 5,
+          "task": "MongoDB Training",
+          "time": 1
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Remove barrel imports from the Designs project",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "QA for the Outstanding widget MUI",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "QA for the WebApps Q3 updates",
+          "time": 0.5
+        },
+        {
+          "key": 4,
+          "task": "QA for the Designs Q3 updates",
+          "time": 0.5
+        },
+        {
+          "key": 5,
+          "task": "MongoDB Training",
+          "time": 6
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "QA for the Staffbase Q3 updates",
+          "time": 0.75
+        },
+        {
+          "key": 2,
+          "task": "MongoDB Training",
+          "time": 7.25
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 8
+        }
+      ]
+    },
+    "total": 36,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Remove barrel imports from the Designs project",
+        "time": 10
+      },
+      {
+        "key": 2,
+        "task": "QA",
+        "time": 3.75
+      },
+      {
+        "key": 3,
+        "task": "frequent SQL Data Hub workflow",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Outstanding widget MUI",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "Field Portal Q3 updates",
+        "time": 0
+      },
+      {
+        "key": 6,
+        "task": "WebApps Q3 updates",
+        "time": 0
+      },
+      {
+        "key": 7,
+        "task": "Designs Q3 updates",
+        "time": 0
+      },
+      {
+        "key": 8,
+        "task": "Staffbase Q3 updates",
+        "time": 0
+      },
+      {
+        "key": 9,
+        "task": "MongoDB Training",
+        "time": 22.25
+      }
+    ]
+  },
+  {
+    "week": "8/9/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "QA the Employees Data Hub workflow migration",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "QA for API Cloud Q3 updates",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "MongoDB Training",
+          "time": 7
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "MongoDB Training",
+          "time": 5.5
+        },
+        {
+          "key": 2,
+          "task": "MERN Fullstack Training",
+          "time": 1
+        },
+        {
+          "key": 3,
+          "task": "QA for Credentials & Licensing widget MUI migration",
+          "time": 0.5
+        },
+        {
+          "key": 4,
+          "task": "Add responsiveness to Credentials & Licensing design page",
+          "time": 1
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Add responsiveness to Credentials & Licensing design page",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "QA the Credentials widget MUI migration",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "MERN Fullstack Training",
+          "time": 6.5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "MERN Fullstack Training",
+          "time": 8
+        }
+      ]
+    },
+    "total": 32,
+    "hits": [
+      {
+        "key": 1,
+        "task": "QA",
+        "time": 2
+      },
+      {
+        "key": 2,
+        "task": "Employees Data Hub workflow migration",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "API Cloud Q3 updates",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "Credentials & Licensing widget MUI migration",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "Add responsiveness to Credentials & Licensing design page",
+        "time": 2
+      },
+      {
+        "key": 6,
+        "task": "Training",
+        "time": 28
+      },
+      {
+        "key": 7,
+        "task": "MongoDB",
+        "time": 0
+      },
+      {
+        "key": 8,
+        "task": "MERN Fullstack",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "8/16/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Design the GuestPass interface",
+          "time": 5
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Design the GuestPass interface",
+          "time": 5.75
+        },
+        {
+          "key": 2,
+          "task": "QA for Credentials widget",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Mern Training",
+          "time": 1.75
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Design the GuestPass interface",
+          "time": 0.25
+        },
+        {
+          "key": 2,
+          "task": "Mern Training",
+          "time": 5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Design the GuestPass interface",
+          "time": 0.75
+        },
+        {
+          "key": 2,
+          "task": "Mern Training",
+          "time": 7.25
+        }
+      ]
+    },
+    "total": 26.25,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Design the GuestPass interface",
+        "time": 11.75
+      },
+      {
+        "key": 2,
+        "task": "QA for Credentials widget",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "Mern Training",
+        "time": 14
+      }
+    ]
+  },
+  {
+    "week": "8/23/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Finish up the GuestPass interface design",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "Create widget-specific QA documentation",
+          "time": 7.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Create widget-specific QA documentation",
+          "time": 6
+        },
+        {
+          "key": 2,
+          "task": "Mern training",
+          "time": 2
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Finish up the GuestPass interface design",
+        "time": 0.5
+      },
+      {
+        "key": 2,
+        "task": "Create widget-specific QA documentation",
+        "time": 13.5
+      },
+      {
+        "key": 3,
+        "task": "Mern training",
+        "time": 2
+      }
+    ]
+  },
+  {
+    "week": "8/30/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Creating widget-specific QA documentation",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Add Labor Hours and Expenses modals to Project Directory design",
+          "time": 5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Add Labor Hours and Expenses modals to Project Directory design",
+          "time": 4.5
+        },
+        {
+          "key": 2,
+          "task": "QA tweaks for widget-specific QA documentation",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "GuestPass design feedback updates",
+          "time": 1
+        },
+        {
+          "key": 4,
+          "task": "MERN training",
+          "time": 2
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Creating widget-specific QA documentation",
+        "time": 3.5
+      },
+      {
+        "key": 2,
+        "task": "Add Labor Hours and Expenses modals to Project Directory design",
+        "time": 9.5
+      },
+      {
+        "key": 3,
+        "task": "GuestPass design feedback updates",
+        "time": 1
+      },
+      {
+        "key": 4,
+        "task": "MERN training",
+        "time": 2
+      }
+    ]
+  },
+  {
+    "week": "9/6/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Project Directory labor hours and expenses design",
+          "time": 1.25
+        },
+        {
+          "key": 2,
+          "task": "MERN Training",
+          "time": 5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Project Directory labor hours and expenses design",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "MERN Training",
+          "time": 2
+        },
+        {
+          "key": 3,
+          "task": "DataGrid list view solution research",
+          "time": 0.5
+        }
+      ]
+    },
+    "total": 11.75,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Project Directory labor hours and expenses design",
+        "time": 4.25
+      },
+      {
+        "key": 2,
+        "task": "MERN Training",
+        "time": 7
+      },
+      {
+        "key": 3,
+        "task": "DataGrid list view solution research",
+        "time": 0.5
+      }
+    ]
+  },
+  {
+    "week": "9/13/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Deploy Project Directory labor hours and expenses design",
+          "time": 4.5
+        },
+        {
+          "key": 2,
+          "task": "QA for the Cloud API reporting refactor",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "Fix the DataGrid list view aggregation row",
+          "time": 3
+        }
+      ]
+    },
+    "total": 8,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Deploy Project Directory labor hours and expenses design",
+        "time": 4.5
+      },
+      {
+        "key": 2,
+        "task": "QA for the Cloud API reporting refactor",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "Fix the DataGrid list view aggregation row",
+        "time": 3
+      }
+    ]
+  },
+  {
+    "week": "9/20/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Add totals for list view DataGrid",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "Incorporate the GuestPass design into the new project",
+          "time": 3
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Incorporate the GuestPass design into the new project",
+          "time": 6.25
+        }
+      ]
+    },
+    "total": 14.25,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Add totals for list view DataGrid",
+        "time": 5
+      },
+      {
+        "key": 2,
+        "task": "Incorporate the GuestPass design into the new project",
+        "time": 9.25
+      }
+    ]
+  },
+  {
+    "week": "9/27/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Incorporate GuestPass design into the new project",
+          "time": 6
+        },
+        {
+          "key": 2,
+          "task": "Edit DataGrid list view aggregations",
+          "time": 2
+        }
+      ]
+    },
+    "total": 9,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Incorporate GuestPass design into the new project",
+        "time": 6
+      },
+      {
+        "key": 2,
+        "task": "Edit DataGrid list view aggregations",
+        "time": 2
+      }
+    ]
+  },
+  {
+    "week": "10/11/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "QA for the Project Directory MUI migration",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "GuestPass design incorporation",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "MERN training",
+          "time": 14.5
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "QA for the Project Directory MUI migration",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "GuestPass design incorporation",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "MERN training",
+        "time": 14.5
+      }
+    ]
+  },
+  {
+    "week": "10/25/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Input Terms of Service into GuestPass",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "GuestPass peer programming",
+          "time": 6.5
+        },
+        {
+          "key": 3,
+          "task": "OneConnect Meeting",
+          "time": 0.5
+        }
+      ]
+    },
+    "total": 8,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Input Terms of Service into GuestPass",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "GuestPass peer programming",
+        "time": 6.5
+      },
+      {
+        "key": 3,
+        "task": "OneConnect Meeting",
+        "time": 0.5
+      }
+    ]
+  },
+  {
+    "week": "11/1/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "QA and CR for Staffbase design English language code bugfix",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Creating adark mode for Guestpass",
+          "time": 5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Creating a dark mode for Guestpass",
+          "time": 7
+        },
+        {
+          "key": 2,
+          "task": "MERN Training",
+          "time": 1
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "QA and CR for Staffbase design English language code bugfix",
+        "time": 3
+      },
+      {
+        "key": 2,
+        "task": "Creating a dark mode for Guestpass",
+        "time": 12
+      },
+      {
+        "key": 3,
+        "task": "MERN Training",
+        "time": 1
+      },
+      {
+        "key": 4,
+        "task": "For finals week and holiday travelling, I am taking off the weeks of 12/15 and 12/22.",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "11/8/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "GuestPass Admin User-logout",
+          "time": 5.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "GuestPass Admin User-logout",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "MERN Training",
+          "time": 3
+        }
+      ]
+    },
+    "total": 13.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "GuestPass Admin User-logout",
+        "time": 10.5
+      },
+      {
+        "key": 2,
+        "task": "MERN Training",
+        "time": 3
+      }
+    ]
+  },
+  {
+    "week": "11/15/2025",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Finish GuestPass design for admin user logout",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "QA for the Staffbase CSP changes",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "QA and CR for GuestPass admin logout design",
+          "time": 1.5
+        },
+        {
+          "key": 4,
+          "task": "Create QA documentation for GuestPass and Cloud API via Swagger",
+          "time": 1
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Create QA documentation for GuestPass and Cloud API via Swagger",
+          "time": 7
+        }
+      ]
+    },
+    "total": 15,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Finish GuestPass design for admin user logout",
+        "time": 5
+      },
+      {
+        "key": 2,
+        "task": "QA for the Staffbase CSP changes",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "QA and CR for GuestPass admin logout design",
+        "time": 1.5
+      },
+      {
+        "key": 4,
+        "task": "Create QA documentation for GuestPass and Cloud API via Swagger",
+        "time": 8
+      }
+    ]
+  },
+  {
+    "week": "11/22/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Create QA documentation for GuestPass",
+          "time": 2
+        },
+        {
+          "key": 2,
+          "task": "Incorporate the user admin panel design into GuestPass",
+          "time": 10
+        },
+        {
+          "key": 3,
+          "task": "Training",
+          "time": 4
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Create QA documentation for GuestPass",
+        "time": 2
+      },
+      {
+        "key": 2,
+        "task": "Incorporate the user admin panel design into GuestPass",
+        "time": 10
+      },
+      {
+        "key": 3,
+        "task": "Training",
+        "time": 4
+      }
+    ]
+  },
+  {
+    "week": "11/29/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Incorporating the user Admin Panel Design into GuestPass",
+          "time": 13
+        },
+        {
+          "key": 2,
+          "task": "QA for KB metrics",
+          "time": 2.25
+        },
+        {
+          "key": 3,
+          "task": "Update GuestPass design",
+          "time": 5.75
+        },
+        {
+          "key": 4,
+          "task": "Synchronize GuestPass design and web app code changes",
+          "time": 2.5
+        },
+        {
+          "key": 5,
+          "task": "MERN Training",
+          "time": 0.5
+        }
+      ]
+    },
+    "total": 24,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Incorporating the user Admin Panel Design into GuestPass",
+        "time": 13
+      },
+      {
+        "key": 2,
+        "task": "QA for KB metrics",
+        "time": 2.25
+      },
+      {
+        "key": 3,
+        "task": "Update GuestPass design",
+        "time": 5.75
+      },
+      {
+        "key": 4,
+        "task": "Synchronize GuestPass design and web app code changes",
+        "time": 2.5
+      },
+      {
+        "key": 5,
+        "task": "MERN Training",
+        "time": 0.5
+      }
+    ]
+  },
+  {
+    "week": "12/13/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Synchronize GuestPass design and web app code changes",
+          "time": 7.5
+        },
+        {
+          "key": 2,
+          "task": "MERN Training",
+          "time": 0.5
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Synchronize GuestPass design and web app code changes",
+          "time": 6
+        },
+        {
+          "key": 2,
+          "task": "QA for KB widget tweaks",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "MERN Training",
+          "time": 1.5
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Synchronize GuestPass design and web app code changes",
+        "time": 13.5
+      },
+      {
+        "key": 2,
+        "task": "QA for KB widget tweaks",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "MERN Training",
+        "time": 2
+      },
+      {
+        "key": 4,
+        "task": "Out of office next week.",
+        "time": 0
+      }
+    ]
+  },
+  {
+    "week": "12/27/2025",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Adding metrics to the Power BI widget [18 hours]",
+          "time": 0
+        },
+        {
+          "key": 2,
+          "task": "Adding metrics to the Form widget",
+          "time": 12
+        },
+        {
+          "key": 3,
+          "task": "MERN Training",
+          "time": 2
+        }
+      ]
+    },
+    "total": 32,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Adding metrics to the Power BI widget [18 hours]",
+        "time": 0
+      },
+      {
+        "key": 2,
+        "task": "Adding metrics to the Form widget",
+        "time": 12
+      },
+      {
+        "key": 3,
+        "task": "MERN Training",
+        "time": 2
+      }
+    ]
+  },
+  {
+    "week": "1/3/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Power BI widget metrics bugfix",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Form widget metrics",
+          "time": 6
+        },
+        {
+          "key": 3,
+          "task": "Outstanding widget metrics",
+          "time": 2
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Outstanding widget metrics",
+          "time": 5.5
+        },
+        {
+          "key": 2,
+          "task": "Cloud API reporting endpoints QA",
+          "time": 0.5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Outstanding widget metrics",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "Archive Lookup widget metrics",
+          "time": 3
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Archive Lookup widget metrics",
+          "time": 6
+        },
+        {
+          "key": 2,
+          "task": "Credentials widget metrics",
+          "time": 2
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Credentials widget metrics",
+          "time": 9
+        }
+      ]
+    },
+    "total": 40,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Power BI widget metrics bugfix",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "Form widget metrics",
+        "time": 6
+      },
+      {
+        "key": 3,
+        "task": "Outstanding widget metrics",
+        "time": 12.5
+      },
+      {
+        "key": 4,
+        "task": "Cloud API reporting endpoints QA",
+        "time": 0.5
+      },
+      {
+        "key": 5,
+        "task": "Archive Lookup widget metrics",
+        "time": 9
+      },
+      {
+        "key": 6,
+        "task": "Credentials widget metrics",
+        "time": 11
+      }
+    ]
+  },
+  {
+    "week": "1/10/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Archive Lookup Widget Metrics",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Credentials Widget Metrics",
+          "time": 7
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Credentials Widget Metrics",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Project Directory Widget",
+          "time": 4.5
+        },
+        {
+          "key": 3,
+          "task": "QA for Cloud API",
+          "time": 0.5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Project Directory Widget",
+          "time": 4.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Project Directory Widget",
+          "time": 8
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Project Directory Widget",
+          "time": 2.5
+        },
+        {
+          "key": 2,
+          "task": "MERN Training",
+          "time": 5.5
+        }
+      ]
+    },
+    "total": 36.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Archive Lookup Widget Metrics",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "Credentials Widget Metrics",
+        "time": 10
+      },
+      {
+        "key": 3,
+        "task": "QA for Cloud API",
+        "time": 0.5
+      },
+      {
+        "key": 4,
+        "task": "Project Directory Widget",
+        "time": 19.5
+      },
+      {
+        "key": 5,
+        "task": "MERN Training",
+        "time": 5.5
+      }
+    ]
+  },
+  {
+    "week": "1/17/2026",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Project Directory widget metrics",
+          "time": 6
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "GuestPass QA",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Project Directory widget metrics",
+          "time": 1
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Project Directory widget metrics",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "MUI X DataGrid persistent settings assessment",
+          "time": 3
+        }
+      ]
+    },
+    "total": 14,
+    "hits": [
+      {
+        "key": 1,
+        "task": "GuestPass QA",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "Project Directory widget metrics",
+        "time": 10
+      },
+      {
+        "key": 3,
+        "task": "MUI X DataGrid persistent settings assessment",
+        "time": 3
+      }
+    ]
+  },
+  {
+    "week": "1/24/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Staffbase bugfix",
+          "time": 2
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Staffbase bugfix",
+          "time": 2.5
+        },
+        {
+          "key": 2,
+          "task": "QA for Q1 updates",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "MUI X DataGrid persistent settings assessment",
+          "time": 3
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "MUI X DataGrid persistent settings assessment",
+          "time": 6
+        }
+      ]
+    },
+    "total": 14,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Staffbase bugfix",
+        "time": 4.5
+      },
+      {
+        "key": 2,
+        "task": "QA for Q1 updates",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "MUI X DataGrid persistent settings assessment",
+        "time": 9
+      }
+    ]
+  },
+  {
+    "week": "1/31/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Add MUI X DataGrid setting persistence to designs",
+          "time": 12.5
+        },
+        {
+          "key": 2,
+          "task": "Personal IT pulse check with Fleck",
+          "time": 1.5
+        }
+      ]
+    },
+    "total": 14,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Add MUI X DataGrid setting persistence to designs",
+        "time": 12.5
+      },
+      {
+        "key": 2,
+        "task": "Personal IT pulse check with Fleck",
+        "time": 1.5
+      }
+    ]
+  },
+  {
+    "week": "2/7/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "QA GuestPass email logo update",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "QA framework for WebApps 2.0",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "MUI X DataGrid setting persistence",
+          "time": 31
+        }
+      ]
+    },
+    "total": 32,
+    "hits": [
+      {
+        "key": 1,
+        "task": "QA GuestPass email logo update",
+        "time": 0.5
+      },
+      {
+        "key": 2,
+        "task": "QA framework for WebApps 2.0",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "MUI X DataGrid setting persistence",
+        "time": 31
+      }
+    ]
+  },
+  {
+    "week": "2/21/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "MUI X DataGrid setting persistence",
+          "time": 16
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "MUI X DataGrid setting persistence",
+        "time": 16
+      }
+    ]
+  },
+  {
+    "week": "2/28/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "MUI X DataGrid settings persistence",
+          "time": 15
+        },
+        {
+          "key": 2,
+          "task": "MUI X Chart legend toggler conversion",
+          "time": 1
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "MUI X DataGrid settings persistence",
+        "time": 15
+      },
+      {
+        "key": 2,
+        "task": "MUI X Chart legend toggler conversion",
+        "time": 1
+      }
+    ]
+  },
+  {
+    "week": "3/28/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "MUI X DataGrid settings persistence",
+          "time": 6
+        }
+      ]
+    },
+    "total": 6,
+    "hits": [
+      {
+        "key": 1,
+        "task": "MUI X DataGrid settings persistence",
+        "time": 6
+      }
+    ]
+  },
+  {
+    "week": "4/4/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "MUI X DataGrid settings",
+          "time": 10
+        }
+      ]
+    },
+    "total": 10,
+    "hits": [
+      {
+        "key": 1,
+        "task": "MUI X DataGrid settings",
+        "time": 10
+      }
+    ]
+  },
+  {
+    "week": "4/11/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "DataGrid Settings Persistence",
+          "time": 13
+        },
+        {
+          "key": 2,
+          "task": "GuestPass QA",
+          "time": 0.5
+        },
+        {
+          "key": 3,
+          "task": "WebApps QA",
+          "time": 0.5
+        }
+      ]
+    },
+    "total": 14,
+    "hits": [
+      {
+        "key": 1,
+        "task": "DataGrid Settings Persistence",
+        "time": 13
+      },
+      {
+        "key": 2,
+        "task": "GuestPass QA",
+        "time": 0.5
+      },
+      {
+        "key": 3,
+        "task": "WebApps QA",
+        "time": 0.5
+      }
+    ]
+  },
+  {
+    "week": "4/18/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "DataGrid Settings Persistence",
+          "time": 14
+        }
+      ]
+    },
+    "total": 14,
+    "hits": [
+      {
+        "key": 1,
+        "task": "DataGrid Settings Persistence",
+        "time": 14
+      }
+    ]
+  },
+  {
+    "week": "4/25/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "DataGrid Settings Persistence",
+          "time": 8
+        },
+        {
+          "key": 2,
+          "task": "Testing the hiring test proctoring",
+          "time": 3
+        },
+        {
+          "key": 3,
+          "task": "Adding Settings Persistence to custom package DataGrid",
+          "time": 6
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "DataGrid Settings Persistence",
+        "time": 8
+      },
+      {
+        "key": 2,
+        "task": "Testing the hiring test proctoring",
+        "time": 3
+      },
+      {
+        "key": 3,
+        "task": "Adding Settings Persistence to custom package DataGrid",
+        "time": 6
+      }
+    ]
+  },
+  {
+    "week": "5/2/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Add persistent DataGrid user settings to custom MUI package",
+          "time": 12
+        }
+      ]
+    },
+    "total": 12,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Add persistent DataGrid user settings to custom MUI package",
+        "time": 12
+      }
+    ]
+  },
+  {
+    "week": "5/16/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "QA for MUI package and WebApps2",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "Adding persistent MUI X DataGrid settings tocustom MUI package",
+          "time": 6.5
+        }
+      ]
+    },
+    "total": 16.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "QA for MUI package and WebApps2",
+        "time": 0.5
+      },
+      {
+        "key": 2,
+        "task": "Adding persistent MUI X DataGrid settings tocustom MUI package",
+        "time": 13.5
+      },
+      {
+        "key": 3,
+        "task": "TanStack table prototype review",
+        "time": 2.5
+      }
+    ]
+  },
+  {
+    "week": "5/23/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Sharp alternatives assessment",
+          "time": 24
+        }
+      ]
+    },
+    "total": 24,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Sharp alternatives assessment",
+        "time": 24
+      }
+    ]
+  },
+  {
+    "week": "5/30/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Assess Sharp image manipulation alternatives",
+          "time": 21
+        },
+        {
+          "key": 2,
+          "task": "WebApps2 Napi image manipulation function creation",
+          "time": 16
+        }
+      ]
+    },
+    "total": 37,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Assess Sharp image manipulation alternatives",
+        "time": 21
+      },
+      {
+        "key": 2,
+        "task": "WebApps2 Napi image manipulation function creation",
+        "time": 16
+      }
+    ]
+  },
+  {
+    "week": "6/6/2026",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "WebApps2 image manipulation function",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "QA for WebApps2 data-based lookup fields",
+          "time": 0
+        },
+        {
+          "key": 3,
+          "task": "QA for MUI DataGrid alternative and its usage in Staffbase",
+          "time": 0
+        },
+        {
+          "key": 4,
+          "task": "CRs for MUI DataGrid alternative and Staffbase implementation of DataGrid alternative",
+          "time": 0
+        },
+        {
+          "key": 5,
+          "task": "CR for WebApps2 data-based lookup fields",
+          "time": 0
+        }
+      ],
+      "Monday": [
+        {
+          "key": 1,
+          "task": "WebApps2 image manipulation function",
+          "time": 6
+        }
+      ]
+    },
+    "total": 7,
+    "hits": [
+      {
+        "key": 1,
+        "task": "WebApps2 image manipulation function",
+        "time": 7
+      },
+      {
+        "key": 2,
+        "task": "QA for WebApps2 data-based lookup fields",
+        "time": 0
+      },
+      {
+        "key": 3,
+        "task": "QA for MUI DataGrid alternative and its usage in Staffbase",
+        "time": 0
+      },
+      {
+        "key": 4,
+        "task": "CRs for MUI DataGrid alternative and Staffbase implementation of DataGrid alternative",
+        "time": 0
+      },
+      {
+        "key": 5,
+        "task": "CR for WebApps2 data-based lookup fields",
+        "time": 0
+      }
+    ]
+  }
+]

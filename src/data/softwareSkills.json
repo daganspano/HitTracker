@@ -1,0 +1,85 @@
+{
+  "updated": "2026-06-07T16:31:41.004Z",
+  "categories": [
+    {
+      "category": "Languages",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "PostgreSQL",
+        "EJS"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "skills": [
+        "React",
+        "Express",
+        "Node.js",
+        "MongoDB",
+        "Material UI",
+        "Tailwind CSS",
+        "Bootstrap",
+        "TanStack Table",
+        "Napi"
+      ]
+    },
+    {
+      "category": "Design & Prototyping",
+      "skills": [
+        "Figma",
+        "FigJam",
+        "CodeSandbox"
+      ]
+    },
+    {
+      "category": "Project Management & Communication",
+      "skills": [
+        "Jira",
+        "Confluence",
+        "Microsoft Teams",
+        "Kanban"
+      ]
+    },
+    {
+      "category": "Development Tools",
+      "skills": [
+        "Visual Studio Code",
+        "Git",
+        "GitHub",
+        "Swagger",
+        "Retool",
+        "JotForm"
+      ]
+    },
+    {
+      "category": "Platforms & Hosting",
+      "skills": [
+        "Wix Studio",
+        "Squarespace",
+        "Hostinger",
+        "Apple Developer Program"
+      ]
+    },
+    {
+      "category": "Documentation & Knowledge Management",
+      "skills": [
+        "Microsoft OneNote",
+        "Confluence",
+        "Freshservice",
+        "Microsoft Visio"
+      ]
+    },
+    {
+      "category": "Other",
+      "skills": [
+        "Codewars",
+        "NINJIO",
+        "Udemy"
+      ]
+    }
+  ]
+}
