@@ -190,7 +190,7 @@ function EnterDayHits() {
         }}
         sx={{ my: 2 }}
       >
-        Save
+        Save {hits.reduce((acc, hit) => acc + hit.time, 0)} hours
       </Button>
 
       {saveStatus === "saving" && (

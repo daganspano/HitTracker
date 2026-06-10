@@ -5152,27 +5152,7 @@
         {
           "key": 1,
           "task": "WebApps2 image manipulation function",
-          "time": 1
-        },
-        {
-          "key": 2,
-          "task": "QA for WebApps2 data-based lookup fields",
-          "time": 0
-        },
-        {
-          "key": 3,
-          "task": "QA for MUI DataGrid alternative and its usage in Staffbase",
-          "time": 0
-        },
-        {
-          "key": 4,
-          "task": "CRs for MUI DataGrid alternative and Staffbase implementation of DataGrid alternative",
-          "time": 0
-        },
-        {
-          "key": 5,
-          "task": "CR for WebApps2 data-based lookup fields",
-          "time": 0
+          "time": 8
         }
       ],
       "Monday": [
@@ -5181,34 +5161,61 @@
           "task": "WebApps2 image manipulation function",
           "time": 6
         }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "WebApps2 image manipulation function",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Udemy training",
+          "time": 1
+        },
+        {
+          "key": 3,
+          "task": "QA for Wilson University coursework reporting",
+          "time": 1
+        },
+        {
+          "key": 4,
+          "task": "QA for MUI DataGrid alternative and its usage in Staffbase",
+          "time": 2
+        },
+        {
+          "key": 5,
+          "task": "QA for WebApps2 data-based lookup fields",
+          "time": 1
+        }
       ]
     },
-    "total": 7,
+    "total": 22,
     "hits": [
       {
         "key": 1,
         "task": "WebApps2 image manipulation function",
-        "time": 7
+        "time": 17
       },
       {
         "key": 2,
-        "task": "QA for WebApps2 data-based lookup fields",
-        "time": 0
+        "task": "Udemy training",
+        "time": 1
       },
       {
         "key": 3,
-        "task": "QA for MUI DataGrid alternative and its usage in Staffbase",
-        "time": 0
+        "task": "QA for Wilson University coursework reporting",
+        "time": 1
       },
       {
         "key": 4,
-        "task": "CRs for MUI DataGrid alternative and Staffbase implementation of DataGrid alternative",
-        "time": 0
+        "task": "QA for MUI DataGrid alternative and its usage in Staffbase",
+        "time": 2
       },
       {
         "key": 5,
-        "task": "CR for WebApps2 data-based lookup fields",
-        "time": 0
+        "task": "QA for WebApps2 data-based lookup fields",
+        "time": 1
       }
     ]
   }
