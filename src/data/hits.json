@@ -5188,14 +5188,53 @@
           "task": "QA for WebApps2 data-based lookup fields",
           "time": 1
         }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Decomp/Commitment for WebApps2 form editor section management",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "QA for MUI DataGrid alternative and its usage in Staffbase",
+          "time": 1
+        },
+        {
+          "key": 3,
+          "task": "CR for MUI DataGrid alternative and its usage in Staffbase",
+          "time": 1
+        },
+        {
+          "key": 4,
+          "task": "CR for WebApps2 databased lookup fields",
+          "time": 0.5
+        },
+        {
+          "key": 5,
+          "task": "WebApps2 form editor",
+          "time": 4.5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "WebApps2 image manipulation function",
+          "time": 1.5
+        },
+        {
+          "key": 2,
+          "task": "WebApps2 form editor",
+          "time": 6.5
+        }
       ]
     },
-    "total": 22,
+    "total": 38,
     "hits": [
       {
         "key": 1,
         "task": "WebApps2 image manipulation function",
-        "time": 17
+        "time": 18.5
       },
       {
         "key": 2,
@@ -5210,12 +5249,759 @@
       {
         "key": 4,
         "task": "QA for MUI DataGrid alternative and its usage in Staffbase",
-        "time": 2
+        "time": 3
       },
       {
         "key": 5,
         "task": "QA for WebApps2 data-based lookup fields",
         "time": 1
+      },
+      {
+        "key": 6,
+        "task": "Decomp/Commitment for WebApps2 form editor section management",
+        "time": 1
+      },
+      {
+        "key": 7,
+        "task": "CR for MUI DataGrid alternative and its usage in Staffbase",
+        "time": 1
+      },
+      {
+        "key": 8,
+        "task": "CR for WebApps2 databased lookup fields",
+        "time": 0.5
+      },
+      {
+        "key": 9,
+        "task": "WebApps2 form editor",
+        "time": 11
+      }
+    ]
+  },
+  {
+    "week": "6/13/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 8
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 8
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 4
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 8
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 8
+        }
+      ]
+    },
+    "total": 36,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Create Form Editor UI in WebApps2",
+        "time": 36
+      }
+    ]
+  },
+  {
+    "week": "6/20/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "WebApps2 image manipulation function",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 7
+        }
+      ]
+    },
+    "total": 8,
+    "hits": [
+      {
+        "key": 1,
+        "task": "WebApps2 image manipulation function",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "Create Form Editor UI in WebApps2",
+        "time": 7
+      }
+    ]
+  },
+  {
+    "week": "6/27/2026",
+    "days": {
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 7
+        },
+        {
+          "key": 2,
+          "task": "QA for GoLive-required documentation to WebApps2",
+          "time": 1
+        }
+      ]
+    },
+    "total": 8,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Create Form Editor UI in WebApps2",
+        "time": 7
+      },
+      {
+        "key": 2,
+        "task": "QA for GoLive-required documentation to WebApps2",
+        "time": 1
+      }
+    ]
+  },
+  {
+    "week": "7/4/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 7
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Create Form Editor UI in WebApps2",
+          "time": 6
+        },
+        {
+          "key": 2,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 2
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 8
+        }
+      ]
+    },
+    "total": 40,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Create Form Editor UI in WebApps2",
+        "time": 13
+      },
+      {
+        "key": 2,
+        "task": "Wire up non-DnD Form Editor controls in WebApps2",
+        "time": 27
+      }
+    ]
+  },
+  {
+    "week": "7/11/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 7
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 3
+        },
+        {
+          "key": 2,
+          "task": "Create dark gray color palette for MUI library",
+          "time": 5
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 3.5
+        },
+        {
+          "key": 2,
+          "task": "UI/UX Training",
+          "time": 5.5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Create dark gray color palette for MUI library",
+          "time": 8
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Create dark gray color palette for MUI library",
+          "time": 3.5
+        },
+        {
+          "key": 2,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 1.5
+        }
+      ]
+    },
+    "total": 37,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Wire up non-DnD Form Editor controls in WebApps2",
+        "time": 15
+      },
+      {
+        "key": 2,
+        "task": "Create dark gray color palette for MUI library",
+        "time": 16.5
+      },
+      {
+        "key": 3,
+        "task": "UI/UX Training",
+        "time": 5.5
+      }
+    ]
+  },
+  {
+    "week": "7/18/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Create dark gray color palette for MUI library",
+          "time": 2.5
+        },
+        {
+          "key": 2,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 5.5
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 2
+        },
+        {
+          "key": 2,
+          "task": "Create dark gray color palette for MUI library",
+          "time": 2
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Create dark gray color palette for MUI library",
+          "time": 4.5
+        },
+        {
+          "key": 2,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 4.5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 8
+        }
+      ]
+    },
+    "total": 34,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Create dark gray color palette for MUI library",
+        "time": 9
+      },
+      {
+        "key": 2,
+        "task": "Wire up non-DnD Form Editor controls in WebApps2",
+        "time": 25
+      }
+    ]
+  },
+  {
+    "week": "7/25/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 8
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 8
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 6
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 8
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 8
+        }
+      ]
+    },
+    "total": 38,
+    "hits": [
+      {
+        "key": 1,
+        "task": "Wire up non-DnD Form Editor controls in WebApps2",
+        "time": 38
+      }
+    ]
+  },
+  {
+    "week": "8/1/2026",
+    "days": {
+      "Friday": [
+        {
+          "key": 1,
+          "task": "CRs for WebApps2 and GuestPass",
+          "time": 3.5
+        },
+        {
+          "key": 2,
+          "task": "Create dark gray color palette for MUI library",
+          "time": 4.5
+        }
+      ],
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 3.5
+        },
+        {
+          "key": 2,
+          "task": "Training",
+          "time": 4.5
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 8
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 4
+        },
+        {
+          "key": 2,
+          "task": "Training",
+          "time": 4
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "Wire up non-DnD Form Editor controls in WebApps2",
+          "time": 4.5
+        },
+        {
+          "key": 2,
+          "task": "Training",
+          "time": 3
+        },
+        {
+          "key": 3,
+          "task": "QA for GuestPass",
+          "time": 0.5
+        }
+      ]
+    },
+    "total": 40,
+    "hits": [
+      {
+        "key": 1,
+        "task": "CRs for WebApps2 and GuestPass",
+        "time": 3.5
+      },
+      {
+        "key": 2,
+        "task": "Create dark gray color palette for MUI library",
+        "time": 4.5
+      },
+      {
+        "key": 3,
+        "task": "Wire up non-DnD Form Editor controls in WebApps2",
+        "time": 20
+      },
+      {
+        "key": 4,
+        "task": "Training",
+        "time": 11.5
+      },
+      {
+        "key": 5,
+        "task": "QA for GuestPass",
+        "time": 0.5
+      }
+    ]
+  },
+  {
+    "week": "8/8/2026",
+    "days": {
+      "Friday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 4.5
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 8
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 8
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 8
+        }
+      ],
+      "Monday": [
+        {
+          "key": 1,
+          "task": "Create dark gray color palette for MUI library",
+          "time": 5.5
+        },
+        {
+          "key": 2,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 2.5
+        }
+      ]
+    },
+    "total": 36.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "WebApps2 refactoring and refinements",
+        "time": 31
+      },
+      {
+        "key": 2,
+        "task": "Create dark gray color palette for MUI library",
+        "time": 5.5
+      }
+    ]
+  },
+  {
+    "week": "8/15/2026",
+    "days": {
+      "Monday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "Create dark gray color palette for MUI library",
+          "time": 3
+        }
+      ],
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 4.5
+        },
+        {
+          "key": 2,
+          "task": "QA for adding filtering and pagination to WebApps2 Tables",
+          "time": 1
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "QA for adding filtering and pagination to WebApps2 Tables",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 5.5
+        }
+      ],
+      "Wednesday": [
+        {
+          "key": 1,
+          "task": "QA for adding filtering and pagination to WebApps2 Tables",
+          "time": 0.5
+        },
+        {
+          "key": 2,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 7.5
+        }
+      ],
+      "Friday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 8
+        }
+      ]
+    },
+    "total": 35.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "WebApps2 refactoring and refinements",
+        "time": 30.5
+      },
+      {
+        "key": 2,
+        "task": "Create dark gray color palette for MUI library",
+        "time": 3
+      },
+      {
+        "key": 3,
+        "task": "QA for adding filtering and pagination to WebApps2 Tables",
+        "time": 2
+      }
+    ]
+  },
+  {
+    "week": "8/22/2026",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 8
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 8
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "WebApps2 refactoring and refinements",
+        "time": 16
+      }
+    ]
+  },
+  {
+    "week": "8/29/2026",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 8
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 5
+        },
+        {
+          "key": 2,
+          "task": "QA for Q3 Updates",
+          "time": 1
+        }
+      ]
+    },
+    "total": 14,
+    "hits": [
+      {
+        "key": 1,
+        "task": "WebApps2 refactoring and refinements",
+        "time": 13
+      },
+      {
+        "key": 2,
+        "task": "QA for Q3 Updates",
+        "time": 1
+      }
+    ]
+  },
+  {
+    "week": "9/5/2026",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "CR for Q3 Updates",
+          "time": 1
+        },
+        {
+          "key": 2,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 7
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 6.5
+        }
+      ]
+    },
+    "total": 14.5,
+    "hits": [
+      {
+        "key": 1,
+        "task": "CR for Q3 Updates",
+        "time": 1
+      },
+      {
+        "key": 2,
+        "task": "WebApps2 refactoring and refinements",
+        "time": 13.5
+      }
+    ]
+  },
+  {
+    "week": "9/12/2026",
+    "days": {
+      "Tuesday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 8
+        }
+      ],
+      "Thursday": [
+        {
+          "key": 1,
+          "task": "WebApps2 refactoring and refinements",
+          "time": 8
+        }
+      ]
+    },
+    "total": 16,
+    "hits": [
+      {
+        "key": 1,
+        "task": "WebApps2 refactoring and refinements",
+        "time": 16
       }
     ]
   }
